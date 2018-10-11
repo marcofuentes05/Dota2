@@ -1,4 +1,4 @@
-#README
-## Laboratorio No. 11 
-## Programación Orientada a Objetos - Sección 30
-## Marco Fuentes - 18188
+##README
+ Laboratorio No. 11 
+ Programaciï¿½n Orientada a Objetos - Secciï¿½n 30
+ Marco Fuentes - 18188
